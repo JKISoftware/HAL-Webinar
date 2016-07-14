@@ -1,4 +1,7 @@
 # HAL-Webinar
+
+![HAL-graphic.png](https://github.com/JKISoftware/HAL-Webinar/blob/master/HAL-graphic.png)
+
 [Webinar – Creating a Hardware Abstraction Layer in LabVIEW](http://blog.jki.net/labview/webinar-creating-a-hardware-abstraction-layer-in-labview/)
 
 ## How To: 
