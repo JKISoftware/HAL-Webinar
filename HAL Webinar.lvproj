@@ -28,7 +28,6 @@
 		<Item Name="Camera" Type="Folder">
 			<Item Name="Camera.lvclass" Type="LVClass" URL="../Subsystems/Camera/Camera.lvclass"/>
 			<Item Name="Camera.Simulated.lvclass" Type="LVClass" URL="../Subsystems/Camera.Simulated/Camera.Simulated.lvclass"/>
-			<Item Name="Simulated Camera.TestLauncher.vi" Type="VI" URL="../Subsystems/Camera.Simulated/Simulated Camera.TestLauncher.vi"/>
 		</Item>
 		<Item Name="XYStage" Type="Folder">
 			<Item Name="XYStage.lvclass" Type="LVClass" URL="../Subsystems/XYStage/XYStage.lvclass"/>
@@ -40,6 +39,7 @@
 		<Item Name="ApplyMe.vipc" Type="Document" URL="../ApplyMe.vipc"/>
 		<Item Name="hal.ini" Type="Document" URL="../hal.ini"/>
 		<Item Name="simulation.ini" Type="Document" URL="../simulation.ini"/>
+		<Item Name="Simulated Camera.TestLauncher.vi" Type="VI" URL="../Subsystems/Camera.Simulated/Simulated Camera.TestLauncher.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add State(s) to Queue__jki_lib_state_machine.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/State Machine/_JKI_lib_State_Machine.llb/Add State(s) to Queue__jki_lib_state_machine.vi"/>
@@ -78,7 +78,6 @@
 				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
 				<Item Name="Picture to Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Picture to Pixmap.vi"/>
 				<Item Name="RectSize.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/RectSize.vi"/>
-				<Item Name="Draw (Scale and Center) Image Data__jki_lib_picture.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI.lib/_jki_lib_picture.llb/Draw (Scale and Center) Image Data__jki_lib_picture.vi"/>
 				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -119,7 +118,6 @@
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="General Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
-				<Item Name="Defer Panel Update__jki_lib_user_interface.vi" Type="VI" URL="/&lt;vilib&gt;/addons/_JKI.lib/_jki_lib_user_interface.llb/Defer Panel Update__jki_lib_user_interface.vi"/>
 				<Item Name="Read JPEG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Read JPEG File.vi"/>
 				<Item Name="Read BMP File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP File.vi"/>
 				<Item Name="Read BMP File Data.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP File Data.vi"/>
