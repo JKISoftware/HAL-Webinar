@@ -1,5 +1,5 @@
 # HAL-Webinar
-Webinar – Creating a Hardware Abstraction Layer in LabVIEW
+[Webinar – Creating a Hardware Abstraction Layer in LabVIEW](http://blog.jki.net/labview/webinar-creating-a-hardware-abstraction-layer-in-labview/)
 
 ## How To: 
 
