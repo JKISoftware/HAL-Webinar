@@ -7,7 +7,7 @@
 ## How To: 
 
 1. Apply the VI Package Configuration using VI Package Manager (vipm.jki.net) for LabVIEW 2015
-2. Open HAL Webinar.lvproj in LabVIEW 2015 IDE
+2. Open HAL Webinar.lvproj in LabVIEW 2013+ IDE
 3. From the project environment, Run "Microscope.TestLauncher.vi"
 4. Click on wells to see the XYStage move to that location and capture a simulated image.
 
